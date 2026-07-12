@@ -1,10 +1,12 @@
 # 🛰️ AI·개발 오픈소스 카탈로그
 
-> 🔥 = 트렌드방·저장소 **양쪽에서 걸린 강한 신호**(23) · ♻️ = 저장분·AKwiki에서 **추가 복구**(53) · ⭐ GitHub API 기준 · 📅 마지막 업데이트 · 🗄️ 아카이브
+> AI·개발 분야의 쓸 만한 GitHub 오픈소스 **293개**를 "무엇을 만드나" 기준으로 12개로 분류했습니다. 각 항목에 한국어 한 줄 요약·⭐스타·언어·업데이트를 붙였습니다.
+>
+> 📄 **[AI 논문 337편도 주제별로 정리 → papers.md](papers.md)**
+>
+> 🔥 = 특히 주목할 핵심 도구 · ⭐ GitHub API 기준 · 📅 마지막 업데이트 · 🗄️ 아카이브됨
 
 *생성 2026-07-12 · 총 293개 · 12개 분류*
-
-> 📄 **[AI 논문 337편도 주제별로 정리 → papers.md](papers.md)** — 같은 방에서 공유된 arxiv 논문
 
 ## 📑 목차
 - **1. ✍️ 글·문서 만들기** (17)
@@ -116,8 +118,8 @@
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [moonvy/openpromptstudio](https://github.com/Moonvy/OpenPromptStudio) | 6.6k | Vue | 2024-04 | AIGC 프롬프트 비주얼 에디터(Open Prompt Studio) |
-| ♻️ | [kimsh-1/gongnyang-prompt-kit](https://github.com/kimsh-1/gongnyang-prompt-kit) | 217 | JavaScript | 2026-07 | 막연한 요청을 gpt-image-2 완성 프롬프트로 컴파일(공냥킷) |
+|  | [moonvy/openpromptstudio](https://github.com/Moonvy/OpenPromptStudio) | 6.6k | Vue | 2024-04 | AIGC 프롬프트 비주얼 에디터(Open Prompt Studio) |
+|  | [kimsh-1/gongnyang-prompt-kit](https://github.com/kimsh-1/gongnyang-prompt-kit) | 217 | JavaScript | 2026-07 | 막연한 요청을 gpt-image-2 완성 프롬프트로 컴파일(공냥킷) |
 |  | [nomadamas/god-tibo-imagen](https://github.com/NomaDamas/god-tibo-imagen) | 152 | JavaScript | 2026-06 | Codex 구독으로 GPT image 2.0을 쓰는 패키지 |
 
 ### 스크린샷·카드
@@ -142,7 +144,7 @@
 |  | [browser-use/video-use](https://github.com/browser-use/video-use) | 16.7k | Python | 2026-07 | 코딩 에이전트로 영상을 편집 |
 | 🔥 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 10.3k | Swift | 2026-07 | AI를 위한 맥OS 영상 편집기 |
 |  | [augani/openreel-video](https://github.com/Augani/openreel-video) | 3.9k | TypeScript | 2026-06 | 브라우저 기반 오픈소스 CapCut 대안 영상편집기 |
-| ♻️ | [walterlow/freecut](https://github.com/walterlow/freecut) | 1.5k | TypeScript | 2026-07 | 프로급 오픈소스 영상 편집기(프리컷) |
+|  | [walterlow/freecut](https://github.com/walterlow/freecut) | 1.5k | TypeScript | 2026-07 | 프로급 오픈소스 영상 편집기(프리컷) |
 |  | [okdalto/siljangnim](https://github.com/okdalto/siljangnim) | 23 | JavaScript | 2026-04 | 자연어로 미디어아트 씬을 만드는 실시간 그래픽 툴 |
 
 ### 음성·TTS·오디오
@@ -150,7 +152,7 @@
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
 |  | [microsoft/vibevoice](https://github.com/microsoft/VibeVoice) | 50.0k | Python | 2026-07 | MS의 오픈소스 프론티어 음성 AI |
-| ♻️ | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 40.8k | TypeScript | 2026-07 | TTS·보이스클로닝·전사 되는 오픈소스 음성 스튜디오 |
+|  | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 40.8k | TypeScript | 2026-07 | TTS·보이스클로닝·전사 되는 오픈소스 음성 스튜디오 |
 |  | [openbmb/voxcpm](https://github.com/OpenBMB/VoxCPM) | 33.2k | Python | 2026-07 | 토크나이저 없는 다국어 TTS·음성복제(VoxCPM2) |
 |  | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 13.0k | Swift | 2026-06 | 슈퍼톤의 온디바이스 다국어 초고속 TTS(ONNX) |
 |  | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | 4.8k | Python | 2026-07 | Vapi·Retell 대체 셀프호스팅 음성 AI 플랫폼 |
@@ -164,16 +166,16 @@
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 118.9k | TypeScript | 2026-07 | 접근성 좋은 복붙형 UI 컴포넌트 모음(shadcn/ui) |
+|  | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 118.9k | TypeScript | 2026-07 | 접근성 좋은 복붙형 UI 컴포넌트 모음(shadcn/ui) |
 |  | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 77.4k | TypeScript | 2026-07 | 로컬 우선 오픈소스 Claude Design 대안 데스크톱 앱 |
 |  | [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | 66.4k | - | 2026-05 | 개발자용 디자인·UI 리소스 큐레이션 |
-| ♻️ | [leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 62.3k | JavaScript | 2026-07 | AI에 좋은 심미안을 주는 프론트엔드 디자인 스킬 |
-| ♻️ | [penpot/penpot](https://github.com/penpot/penpot) | 55.5k | Clojure | 2026-07 | 오픈소스 디자인·프로토타이핑 플랫폼(Penpot) |
+|  | [leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 62.3k | JavaScript | 2026-07 | AI에 좋은 심미안을 주는 프론트엔드 디자인 스킬 |
+|  | [penpot/penpot](https://github.com/penpot/penpot) | 55.5k | Clojure | 2026-07 | 오픈소스 디자인·프로토타이핑 플랫폼(Penpot) |
 |  | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 25.7k | TypeScript | 2026-07 | 코딩 에이전트에 비주얼 아이덴티티를 주는 DESIGN.md 규격 |
 |  | [zerostaticthemes/square-ui](https://github.com/zerostaticthemes/square-ui) | 5.9k | TypeScript | 2026-06 | shadcn/ui 기반 아름다운 오픈소스 레이아웃 모음 |
-| ♻️ | [benjitaylor/agentation](https://github.com/benjitaylor/agentation) | 4.1k | TypeScript | 2026-06 | 에이전트를 위한 시각 피드백·UI 수정 도구 |
-| ♻️ | [kzhrknt/awesome-design-md-jp](https://github.com/kzhrknt/awesome-design-md-jp) | 838 | HTML | 2026-07 | 일본어 UI용 DESIGN.md 모음 |
-| ♻️ | [kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design) | 325 | HTML | 2026-07 | 대기업 디자인시스템 58개서 골라 DESIGN.md 생성 |
+|  | [benjitaylor/agentation](https://github.com/benjitaylor/agentation) | 4.1k | TypeScript | 2026-06 | 에이전트를 위한 시각 피드백·UI 수정 도구 |
+|  | [kzhrknt/awesome-design-md-jp](https://github.com/kzhrknt/awesome-design-md-jp) | 838 | HTML | 2026-07 | 일본어 UI용 DESIGN.md 모음 |
+|  | [kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design) | 325 | HTML | 2026-07 | 대기업 디자인시스템 58개서 골라 DESIGN.md 생성 |
 |  | [nlook-service/design-from-code](https://github.com/nlook-service/design-from-code) | 17 | Shell | 2026-06 | 실제 소스코드에서 충실한 HTML 목업으로 디자인 반복 |
 |  | [ashmoonori-afk/design-claude-burnguard](https://github.com/ashmoonori-afk/Design-Claude-Burnguard) | 13 | TypeScript | 2026-04 | Claude 디자인 토큰 소모를 로컬로 막는 BurnGuard |
 
@@ -181,7 +183,7 @@
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 127.3k | TypeScript | 2026-07 | 손그림풍 다이어그램 화이트보드 |
+|  | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 127.3k | TypeScript | 2026-07 | 손그림풍 다이어그램 화이트보드 |
 |  | [cocoon-ai/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) | 6.4k | HTML | 2026-05 | 다크테마 시스템 아키텍처 다이어그램을 HTML/SVG로 생성 |
 |  | [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) | 4.9k | TypeScript | 2026-03 | Excalidraw 공식 MCP — 아키텍처·흐름도 작성 |
 |  | [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) | 4.1k | Python | 2026-03 | Claude로 Excalidraw 다이어그램을 생성하는 스킬 |
@@ -196,7 +198,7 @@
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 184.9k | TypeScript | 2026-07 | 오픈소스 코딩 에이전트(커뮤니티 별명 '가재코드') |
+|  | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 184.9k | TypeScript | 2026-07 | 오픈소스 코딩 에이전트(커뮤니티 별명 '가재코드') |
 | 🔥 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 137.5k | Python | 2026-07 | 터미널에서 코드베이스를 이해하고 작업하는 앤트로픽 공식 코딩 에이전트 |
 | 🔥 | [github/spec-kit](https://github.com/github/spec-kit) | 119.7k | Python | 2026-07 | 스펙 주도 개발(SDD)을 시작하게 돕는 GitHub 공식 툴킷 |
 | 🔥 | [openai/codex](https://github.com/openai/codex) | 97.3k | Rust | 2026-07 | 터미널에서 도는 OpenAI의 경량 코딩 에이전트 |
@@ -205,13 +207,13 @@
 |  | [hmbown/codewhale](https://github.com/Hmbown/CodeWhale) | 39.7k | Rust | 2026-07 | 커뮤니티 주도 오픈소스 에이전트 하네스(구 deepseek-tui) |
 |  | [continuedev/continue](https://github.com/continuedev/continue) | 34.8k | TypeScript | 2026-07 | 오픈소스 코딩 에이전트(IDE·CLI) |
 |  | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 27.8k | JavaScript | 2026-07 | Claude Code에서 Codex로 코드리뷰·작업 위임 |
-| ♻️ | [kilo-org/kilocode](https://github.com/Kilo-Org/kilocode) | 26.1k | TypeScript | 2026-07 | 500+ 모델 올인원 에이전틱 코딩 플랫폼(Cursor 대안) |
-| ♻️ | [stablyai/orca](https://github.com/stablyai/orca) | 16.6k | TypeScript | 2026-07 | 여러 코딩 에이전트를 git worktree로 병렬 구동하는 ADE(오르카) |
-| ♻️ | [hkuds/deepcode](https://github.com/HKUDS/DeepCode) | 16.0k | Python | 2026-07 | 논문·자연어를 실행코드로 바꾸는 오픈 에이전틱 코딩 |
+|  | [kilo-org/kilocode](https://github.com/Kilo-Org/kilocode) | 26.1k | TypeScript | 2026-07 | 500+ 모델 올인원 에이전틱 코딩 플랫폼(Cursor 대안) |
+|  | [stablyai/orca](https://github.com/stablyai/orca) | 16.6k | TypeScript | 2026-07 | 여러 코딩 에이전트를 git worktree로 병렬 구동하는 ADE(오르카) |
+|  | [hkuds/deepcode](https://github.com/HKUDS/DeepCode) | 16.0k | Python | 2026-07 | 논문·자연어를 실행코드로 바꾸는 오픈 에이전틱 코딩 |
 |  | [xiaomimimo/mimo-code](https://github.com/XiaomiMiMo/MiMo-Code) | 11.8k | TypeScript | 2026-07 | 샤오미 MiMo 모델·에이전트 공진화 코딩 CLI |
 |  | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 8.3k | Rust | 2026-07 | 경량 코딩 에이전트 하네스 |
-| ♻️ | [moonshotai/kimi-code](https://github.com/MoonshotAI/kimi-code) | 3.1k | TypeScript | 2026-07 | Moonshot Kimi 기반 차세대 코딩 CLI |
-| ♻️ | [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) | 2.7k | TypeScript | 2026-07 | 복잡한 코드베이스용 에이전트 하네스(OmO 후속) |
+|  | [moonshotai/kimi-code](https://github.com/MoonshotAI/kimi-code) | 3.1k | TypeScript | 2026-07 | Moonshot Kimi 기반 차세대 코딩 CLI |
+|  | [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) | 2.7k | TypeScript | 2026-07 | 복잡한 코드베이스용 에이전트 하네스(OmO 후속) |
 |  | [aattaran/deepclaude](https://github.com/aattaran/deepclaude) | 2.2k | JavaScript | 2026-05 | Claude Code 에이전트 루프를 DeepSeek·OpenRouter 등 백엔드로 구동 |
 |  | [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) | 1.2k | TypeScript | 2026-07 | 벤더 독립적·프로젝트별 스킬/워크플로우 에이전트 하네스 |
 |  | [kstost/cokacdir](https://github.com/kstost/cokacdir) | 352 | Rust | 2026-07 | 코드 에이전트 관련 CLI 유틸(코각코) |
@@ -234,7 +236,7 @@
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [jcodesmore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 27.9k | TypeScript | 2026-07 | 명령 한 줄로 웹사이트를 통째 복제하는 AI 템플릿 |
+|  | [jcodesmore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 27.9k | TypeScript | 2026-07 | 명령 한 줄로 웹사이트를 통째 복제하는 AI 템플릿 |
 
 ### 스펙·검증
 
@@ -251,10 +253,10 @@
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 382.7k | TypeScript | 2026-07 | 어떤 OS·플랫폼에서든 도는 개인 AI 어시스턴트(오픈소스 에이전트) |
+|  | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 382.7k | TypeScript | 2026-07 | 어떤 OS·플랫폼에서든 도는 개인 AI 어시스턴트(오픈소스 에이전트) |
 | 🔥 | [nousresearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 213.4k | Python | 2026-07 | 함께 성장하는 개인 에이전트(Nous Research Hermes) |
 | 🔥 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 130.6k | Shell | 2026-07 | 144명+ AI 전문가를 팀으로 고용하는 AI 에이전시 오픈소스 |
-| ♻️ | [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | 82.4k | Python | 2026-07 | 퓨디파이 공개 셀프호스팅 AI 워크스페이스 |
+|  | [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | 82.4k | Python | 2026-07 | 퓨디파이 공개 셀프호스팅 AI 워크스페이스 |
 | 🔥 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 76.8k | Python | 2026-07 | 바이트댄스가 공개한 장기 리서치·코딩·창작 슈퍼에이전트 하네스 |
 |  | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 64.1k | TypeScript | 2026-07 | 자율 멀티에이전트 스웜을 배치·조율하는 메타 하네스 |
 |  | [hkuds/cli-anything](https://github.com/HKUDS/CLI-Anything) | 45.2k | Python | 2026-07 | 모든 소프트웨어를 에이전트 네이티브로 만드는 CLI-Hub |
@@ -262,7 +264,7 @@
 | 🔥 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 34.7k | Rust | 2026-07 | 내 삶의 로컬 메모리를 쌓는 개인 초지능 오케스트레이터 |
 |  | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 27.8k | Python | 2026-07 | OpenAI의 경량 멀티에이전트 워크플로우 프레임워크 |
 |  | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 15.9k | Python | 2026-07 | Hermes 에이전트를 웹·모바일에서 쓰는 WebUI |
-| ♻️ | [lsdefine/genericagent](https://github.com/lsdefine/GenericAgent) | 13.4k | Python | 2026-07 | 스킬트리를 스스로 키우는 자가진화 경량 에이전트 |
+|  | [lsdefine/genericagent](https://github.com/lsdefine/GenericAgent) | 13.4k | Python | 2026-07 | 스킬트리를 스스로 키우는 자가진화 경량 에이전트 |
 |  | [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | 13.3k | TypeScript | 2026-07 | Hermes 에이전트 데스크톱 컴패니언 앱 |
 |  | [q00/ouroboros](https://github.com/Q00/ouroboros) | 4.9k | Python | 2026-07 | 프롬프트 대신 스펙으로 구동하는 Agent OS |
 |  | [strukto-ai/mirage](https://github.com/strukto-ai/mirage) | 3.3k | TypeScript | 2026-07 | AI 에이전트용 통합 가상 파일시스템 |
@@ -286,10 +288,10 @@
 |  | [muratcankoylan/agent-skills-for-context-engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 17.1k | Python | 2026-07 | 컨텍스트 엔지니어링·멀티에이전트용 종합 스킬 모음 |
 |  | [composiohq/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 14.9k | Python | 2026-05 | Codex CLI·API 워크플로우 자동화용 실전 스킬 큐레이션 |
 |  | [google/skills](https://github.com/google/skills) | 14.5k | Python | 2026-07 | 구글 제품·기술용 공식 Agent Skills |
-| ♻️ | [tw93/waza](https://github.com/tw93/Waza) | 6.4k | Python | 2026-07 | 아는 엔지니어링 습관을 스킬로 바꾼 라이브러리 |
+|  | [tw93/waza](https://github.com/tw93/Waza) | 6.4k | Python | 2026-07 | 아는 엔지니어링 습관을 스킬로 바꾼 라이브러리 |
 |  | [google/agents-cli](https://github.com/google/agents-cli) | 5.0k | Python | 2026-07 | 코딩 어시스턴트를 에이전트 제작 전문가로 만드는 구글 CLI·스킬 |
 |  | [nvidia/skills](https://github.com/NVIDIA/skills) | 2.4k | Python | 2026-07 | NVIDIA 공개 Verified Agent Skills |
-| ♻️ | [fivetaku/gptaku_plugins](https://github.com/fivetaku/gptaku_plugins) | 771 | Shell | 2026-07 | 여행·검색 등 Claude Code 플러그인 마켓 |
+|  | [fivetaku/gptaku_plugins](https://github.com/fivetaku/gptaku_plugins) | 771 | Shell | 2026-07 | 여행·검색 등 Claude Code 플러그인 마켓 |
 |  | [modu-ai/cowork-plugins](https://github.com/modu-ai/cowork-plugins) | 252 | HTML | 2026-06 | 한국 실무 도메인(세무·법률·HR·마케팅) Claude Cowork 플러그인 마켓 |
 |  | [alexzio00/sovereign-skills](https://github.com/AlexZio00/sovereign-skills) | 114 | Python | 2026-07 | 셋업·스코프·리뷰·보안 등 프로덕션급 코딩 에이전트 스킬 18종 |
 |  | [hostingglobal-tech/claude-code-os](https://github.com/Hostingglobal-Tech/claude-code-os) | 103 | Shell | 2026-06 | Claude Code가 OS인 부팅형 LiveCD |
@@ -300,19 +302,19 @@
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
 | 🔥 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 58.6k | Python | 2026-07 | LLM 도달 전 출력·로그·RAG 청크를 압축해 토큰 60~95% 절감 |
-| ♻️ | [mempalace/mempalace](https://github.com/MemPalace/mempalace) | 57.2k | Python | 2026-07 | 대화를 '기억의 궁전' 구조로 저장하는 AI 메모리 |
+|  | [mempalace/mempalace](https://github.com/MemPalace/mempalace) | 57.2k | Python | 2026-07 | 대화를 '기억의 궁전' 구조로 저장하는 AI 메모리 |
 |  | [getzep/graphiti](https://github.com/getzep/graphiti) | 28.6k | Python | 2026-07 | AI 에이전트용 실시간 지식그래프 메모리(Zep) |
 | 🔥 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 25.0k | TypeScript | 2026-07 | 벤치마크 기반 1위 코딩 에이전트 영구 메모리 |
 |  | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 18.3k | Python | 2026-07 | 대화 저장을 넘어 '학습'하는 에이전트 메모리 |
-| ♻️ | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5.9k | Python | 2026-07 | 상태를 가진 에이전트용 메모리 라이브러리 |
-| ♻️ | [xiaowu0162/longmemeval](https://github.com/xiaowu0162/LongMemEval) | 928 | Python | 2026-05 | 장기기억 성능 벤치마크(LongMemEval) |
+|  | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 5.9k | Python | 2026-07 | 상태를 가진 에이전트용 메모리 라이브러리 |
+|  | [xiaowu0162/longmemeval](https://github.com/xiaowu0162/LongMemEval) | 928 | Python | 2026-05 | 장기기억 성능 벤치마크(LongMemEval) |
 |  | [jung-wan-kim/memory-bank](https://github.com/jung-wan-kim/memory-bank) | 129 | TypeScript | 2026-07 | RAG·온톨로지로 Claude Code 컨텍스트 관리 |
 
 ### MCP 서버·SDK
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [upstash/context7](https://github.com/upstash/context7) | 59.0k | TypeScript | 2026-07 | 최신 라이브러리 문서를 넣어주는 MCP(Context7) |
+|  | [upstash/context7](https://github.com/upstash/context7) | 59.0k | TypeScript | 2026-07 | 최신 라이브러리 문서를 넣어주는 MCP(Context7) |
 | 🔥 | [chromedevtools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 46.7k | TypeScript | 2026-07 | 코딩 에이전트에 Chrome DevTools의 '눈'을 달아주는 MCP |
 |  | [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | 23.6k | Python | 2026-07 | MCP 서버·클라이언트 공식 파이썬 SDK |
 |  | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 22.3k | TypeScript | 2026-07 | Claude로 n8n 워크플로우를 만들어주는 MCP |
@@ -322,16 +324,16 @@
 |  | [mdn/mcp](https://github.com/mdn/mcp) | 163 | JavaScript | 2026-07 | MDN 웹 문서 MCP 서버(프로토타입) |
 |  | [emceekim/korea-finance-mcp](https://github.com/emceeKim/korea-finance-mcp) | 53 | TypeScript | 2026-07 | 자본시장법 준수 한국 금융 MCP(ECOS·실거래가·DART 등 15툴) |
 |  | [hueflowstudio/hueflow-sketchup-mcp](https://github.com/hueflowstudio/hueflow-sketchup-mcp) | 8 | Ruby | 2026-04 | SketchUp을 Claude에 연결하는 한국어 MCP |
-| ♻️ | [ksimback/hermes-atlas-mcp](https://github.com/ksimback/hermes-atlas-mcp) | 6 | JavaScript | 2026-04 | Hermes Atlas 생태계 카탈로그 MCP |
+|  | [ksimback/hermes-atlas-mcp](https://github.com/ksimback/hermes-atlas-mcp) | 6 | JavaScript | 2026-04 | Hermes Atlas 생태계 카탈로그 MCP |
 |  | [taewooopark/trendchaser-mcp](https://github.com/TaewoooPark/Trendchaser-mcp) | 3 | JavaScript | 2026-06 | Trendchaser AI/개발 트렌드 피드를 LLM에 노출하는 읽기전용 MCP |
 
 ### 브라우저·웹 자동화
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 104.3k | Python | 2026-07 | AI 에이전트가 웹을 조작하게 하는 오픈소스 |
-| ♻️ | [jackwener/opencli](https://github.com/jackwener/OpenCLI) | 26.5k | JavaScript | 2026-07 | 웹사이트를 CLI로 만들어 로그인 브라우저로 제어 |
-| ♻️ | [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) | 18.9k | Rust | 2026-07 | AI 에이전트·스크래핑용 초경량 헤드리스 브라우저 |
+|  | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 104.3k | Python | 2026-07 | AI 에이전트가 웹을 조작하게 하는 오픈소스 |
+|  | [jackwener/opencli](https://github.com/jackwener/OpenCLI) | 26.5k | JavaScript | 2026-07 | 웹사이트를 CLI로 만들어 로그인 브라우저로 제어 |
+|  | [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) | 18.9k | Rust | 2026-07 | AI 에이전트·스크래핑용 초경량 헤드리스 브라우저 |
 | 🔥 | [browserbase/skills](https://github.com/browserbase/skills) | 3.6k | JavaScript | 2026-07 | 웹 접근용 Browserbase 공식 에이전트 스킬(CAPTCHA·프록시) |
 |  | [lidge-jun/agbrowse](https://github.com/lidge-jun/agbrowse) | 200 | JavaScript | 2026-07 | MCP 토큰 부담 없는 AI 에이전트용 브라우저 자동화 툴킷 |
 
@@ -339,7 +341,7 @@
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [agents-io/pokeclaw](https://github.com/agents-io/PokeClaw) | 957 | Kotlin | 2026-06 | 안드로이드 기기를 온디바이스로 완전 제어하는 AI |
+|  | [agents-io/pokeclaw](https://github.com/agents-io/PokeClaw) | 957 | Kotlin | 2026-06 | 안드로이드 기기를 온디바이스로 완전 제어하는 AI |
 |  | [nomadamas/katok](https://github.com/NomaDamas/katok) | 120 | Rust | 2026-07 | 카카오톡 전체를 에이전트가 검색(BM25+벡터) |
 |  | [bssm-oss/kakao-talk-auto-bot](https://github.com/bssm-oss/kakao-talk-auto-bot) | 74 | Kotlin | 2026-06 | 선택한 방에 AI 자동답장 보내는 안드로이드 앱 |
 |  | [bssm-oss/kakao-talk-auto-bot-mac](https://github.com/bssm-oss/kakao-talk-auto-bot-mac) | 8 | Swift | 2026-05 | 맥 접근성 API로 카카오톡을 제어하는 CLI·메뉴바 |
@@ -355,7 +357,7 @@
 |  | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 4.8k | Python | 2026-07 | AI 에이전트 거버넌스(정책·제로트러스트·샌드박싱) 툴킷 |
 |  | [microsoft/apm](https://github.com/microsoft/apm) | 3.2k | Python | 2026-07 | MS의 에이전트 패키지 매니저 |
 |  | [taewooopark/agent-blackbox](https://github.com/TaewoooPark/Agent-Blackbox) | 47 | TypeScript | 2026-06 | 코딩 에이전트용 로컬 플라이트 레코더 — 실행을 세션맵으로 리플레이 |
-| ♻️ | [borelchu/menhera-loop](https://github.com/Borelchu/menhera-loop) | 19 | JavaScript | 2026-07 | '끝났다'를 엄격히 검증하는 에이전트 완료 루프(멘헤라) |
+|  | [borelchu/menhera-loop](https://github.com/Borelchu/menhera-loop) | 19 | JavaScript | 2026-07 | '끝났다'를 엄격히 검증하는 에이전트 완료 루프(멘헤라) |
 
 ---
 
@@ -365,7 +367,7 @@
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 149.6k | TypeScript | 2026-07 | 웹을 검색·스크랩·조작하는 API(Firecrawl) |
+|  | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 149.6k | TypeScript | 2026-07 | 웹을 검색·스크랩·조작하는 API(Firecrawl) |
 |  | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 72.4k | Python | 2026-07 | LLM 친화적 오픈소스 웹 크롤러·스크래퍼 |
 | 🔥 | [d4vinci/scrapling](https://github.com/D4Vinci/Scrapling) | 69.2k | Python | 2026-07 | 단일요청부터 대규모 크롤까지 처리하는 적응형 스크래핑 프레임워크 |
 |  | [cloakhq/cloakbrowser](https://github.com/CloakHQ/CloakBrowser) | 28.1k | Python | 2026-07 | 모든 봇탐지를 통과하는 스텔스 크로미움(Playwright 대체) |
@@ -375,7 +377,7 @@
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 90.9k | Python | 2026-03 | 단일 GPU에서 도는 자가개선 리서치 에이전트(카파시) |
+|  | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 90.9k | Python | 2026-03 | 단일 GPU에서 도는 자가개선 리서치 에이전트(카파시) |
 |  | [imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 37.4k | Python | 2026-07 | 연구→작성→리뷰→수정 학술 연구 Claude 스킬 |
 |  | [richard-kim-79/archora-skills](https://github.com/richard-kim-79/archora-skills) | 42 | - | 2026-05 | 가설생성·동료평가 등 학술 연구 에이전트 스킬 9종 |
 |  | [taewooopark/scholar-megasearch](https://github.com/TaewoooPark/scholar-megasearch) | 19 | Python | 2026-07 | 20+ 학술DB에 서브에이전트를 뿌리는 대규모 문헌검색 스킬 |
@@ -385,7 +387,7 @@
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [microsoft/graphrag](https://github.com/microsoft/graphrag) | 34.4k | Python | 2026-07 | 그래프 기반 RAG 프레임워크(GraphRAG) |
+|  | [microsoft/graphrag](https://github.com/microsoft/graphrag) | 34.4k | Python | 2026-07 | 그래프 기반 RAG 프레임워크(GraphRAG) |
 |  | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 30.8k | Python | 2026-07 | 슬랙·드라이브·깃허브 50여 소스 연결 사내 AI 챗봇 플랫폼 |
 |  | [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | 14.8k | Python | 2026-02 | LLM 앱·RAG 응답 품질 평가 툴 |
 |  | [learningcircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 8.7k | Python | 2026-07 | 로컬·클라우드 LLM로 도는 딥리서치(SimpleQA 95%) |
@@ -404,14 +406,14 @@
 |  | [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) | 24.7k | Python | 2026-07 | 야후 파이낸스에서 시세 데이터 가져오는 파이썬 라이브러리 |
 | 🔥 | [hkuds/ai-trader](https://github.com/HKUDS/AI-Trader) | 20.7k | Python | 2026-06 | 100% 완전자동 에이전트 네이티브 트레이딩 |
 |  | [hkuds/vibe-trading](https://github.com/HKUDS/Vibe-Trading) | 20.0k | Python | 2026-07 | 개인용 바이브 트레이딩 에이전트 |
-| ♻️ | [ai4finance-foundation/finrl](https://github.com/AI4Finance-Foundation/FinRL) | 15.7k | Jupyter Notebook | 2026-07 | 금융 강화학습(DRL) 오픈소스 |
+|  | [ai4finance-foundation/finrl](https://github.com/AI4Finance-Foundation/FinRL) | 15.7k | Jupyter Notebook | 2026-07 | 금융 강화학습(DRL) 오픈소스 |
 |  | [ai4finance-foundation/finrobot](https://github.com/AI4Finance-Foundation/FinRobot) | 7.5k | Jupyter Notebook | 2026-07 | LLM 금융분석 오픈소스 AI 에이전트 플랫폼(FinRobot) |
 |  | [the-swarm-corporation/autohedge](https://github.com/The-Swarm-Corporation/AutoHedge) | 3.8k | Python | 2026-05 | 스웜 지능 기반 자율 헤지펀드 구축 |
-| ♻️ | [benstaf/finrl_deepseek](https://github.com/benstaf/FinRL_DeepSeek) | 328 | Jupyter Notebook | 2025-04 | DRL+LLM 융합 논문 구현 자동매매 |
-| ♻️ | [monarchjuno/vibe-investing](https://github.com/monarchjuno/vibe-investing) | 282 | Python | 2026-05 | 종목 분석 에이전트 스킬 라이브러리 |
+|  | [benstaf/finrl_deepseek](https://github.com/benstaf/FinRL_DeepSeek) | 328 | Jupyter Notebook | 2025-04 | DRL+LLM 융합 논문 구현 자동매매 |
+|  | [monarchjuno/vibe-investing](https://github.com/monarchjuno/vibe-investing) | 282 | Python | 2026-05 | 종목 분석 에이전트 스킬 라이브러리 |
 |  | [eddmpython/dartlab](https://github.com/eddmpython/dartlab) | 197 | Python | 2026-07 | 한국 DART+SEC EDGAR 공시를 구조화 파이썬 데이터로 |
-| ♻️ | [jjlabsio/korea-stock-mcp](https://github.com/jjlabsio/korea-stock-mcp) | 156 | TypeScript | 2026-07 | DART·KRX 공식 API 한국 주식 분석 MCP |
-| ♻️ | [kgcrom/cluefin-dure](https://github.com/kgcrom/cluefin-dure) | 14 | TypeScript | 2026-06 | 국내 주식 리서치 워크플로우 기록 CLI |
+|  | [jjlabsio/korea-stock-mcp](https://github.com/jjlabsio/korea-stock-mcp) | 156 | TypeScript | 2026-07 | DART·KRX 공식 API 한국 주식 분석 MCP |
+|  | [kgcrom/cluefin-dure](https://github.com/kgcrom/cluefin-dure) | 14 | TypeScript | 2026-06 | 국내 주식 리서치 워크플로우 기록 CLI |
 
 ### 마케팅·SEO·콘텐츠
 
@@ -482,10 +484,10 @@
 |---|---|--:|---|---|---|
 |  | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 26.9k | Python | 2026-07 | API로 쓰는 무료 LLM 추론 리소스 목록 |
 | 🔥 | [decolua/9router](https://github.com/decolua/9router) | 21.8k | JavaScript | 2026-07 | Claude·Codex·Cursor 등을 무료 모델에 연결하는 AI 게이트웨이 |
-| ♻️ | [steipete/codexbar](https://github.com/steipete/CodexBar) | 17.8k | Swift | 2026-07 | Codex·Claude 잔여 토큰을 한 화면에 보는 대시보드(코덱스바) |
+|  | [steipete/codexbar](https://github.com/steipete/CodexBar) | 17.8k | Swift | 2026-07 | Codex·Claude 잔여 토큰을 한 화면에 보는 대시보드(코덱스바) |
 | 🗄️ | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | 11.7k | Rust | 2026-06 | LLM 게이트웨이·관측·평가·최적화를 묶은 오픈소스 LLMOps(아카이브) |
 |  | [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) | 3.2k | Swift | 2026-07 | Claude·ChatGPT 구독을 API키 없이 코딩툴에 쓰는 맥 메뉴바 앱 |
-| ♻️ | [liu5269/zcode2api](https://github.com/liu5269/zcode2api) | 111 | Python | 2026-06 | zcode 무료 한도를 리버스 프록시로 쓰는 도구 |
+|  | [liu5269/zcode2api](https://github.com/liu5269/zcode2api) | 111 | Python | 2026-06 | zcode 무료 한도를 리버스 프록시로 쓰는 도구 |
 
 ---
 
@@ -498,8 +500,8 @@
 |  | [microsoft/vscode](https://github.com/microsoft/vscode) | 187.5k | TypeScript | 2026-07 | Visual Studio Code |
 | 🔥 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | 63.1k | Rust | 2026-07 | 터미널에서 태어난 에이전틱 개발환경 Warp(오픈소스 전환) |
 |  | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 58.0k | Zig | 2026-07 | 빠른 크로스플랫폼 GPU 가속 터미널 에뮬레이터 |
-| ♻️ | [tmux/tmux](https://github.com/tmux/tmux) | 47.6k | C | 2026-07 | 여러 에이전트 세션 병렬 운용의 기본 터미널 멀티플렉서 |
-| ♻️ | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 24.3k | Swift | 2026-07 | 병렬 코딩 에이전트용 Ghostty 기반 맥 터미널(cmux) |
+|  | [tmux/tmux](https://github.com/tmux/tmux) | 47.6k | C | 2026-07 | 여러 에이전트 세션 병렬 운용의 기본 터미널 멀티플렉서 |
+|  | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 24.3k | Swift | 2026-07 | 병렬 코딩 에이전트용 Ghostty 기반 맥 터미널(cmux) |
 |  | [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) | 5.5k | C# | 2026-07 | 무료 크로스플랫폼 Git GUI 클라이언트 |
 |  | [helvesec/rmux](https://github.com/Helvesec/rmux) | 2.4k | Rust | 2026-07 | 타입드 SDK로 어떤 CLI·TUI든 코드로 구동하는 Rust 멀티플렉서 |
 |  | [duanebester/gooey](https://github.com/duanebester/gooey) | 570 | Zig | 2026-07 | GPU 렌더링 하이브리드 UI 프레임워크(Zig) |
@@ -511,12 +513,12 @@
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
 |  | [golang/go](https://github.com/golang/go) | 135.4k | Go | 2026-07 | Go 프로그래밍 언어 |
-| ♻️ | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 118.1k | Rust | 2026-07 | 오픈소스 원격 데스크톱(원격 에이전트 접속) |
+|  | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 118.1k | Rust | 2026-07 | 오픈소스 원격 데스크톱(원격 에이전트 접속) |
 |  | [oven-sh/bun](https://github.com/oven-sh/bun) | 94.6k | Rust | 2026-07 | 초고속 올인원 자바스크립트 런타임·번들러(Bun) |
-| ♻️ | [microsoft/playwright](https://github.com/microsoft/playwright) | 92.7k | TypeScript | 2026-07 | 웹 테스트·브라우저 자동화 프레임워크(Playwright) |
+|  | [microsoft/playwright](https://github.com/microsoft/playwright) | 92.7k | TypeScript | 2026-07 | 웹 테스트·브라우저 자동화 프레임워크(Playwright) |
 |  | [syncthing/syncthing](https://github.com/syncthing/syncthing) | 86.3k | Go | 2026-07 | 오픈소스 P2P 지속 파일 동기화 |
 |  | [apple/container](https://github.com/apple/container) | 47.6k | Swift | 2026-07 | 맥에서 경량 VM으로 리눅스 컨테이너 실행(Apple) |
-| ♻️ | [tailscale/tailscale](https://github.com/tailscale/tailscale) | 33.9k | Go | 2026-07 | WireGuard 기반 메시 VPN 원격 접속 |
+|  | [tailscale/tailscale](https://github.com/tailscale/tailscale) | 33.9k | Go | 2026-07 | WireGuard 기반 메시 VPN 원격 접속 |
 |  | [valvesoftware/gamenetworkingsockets](https://github.com/ValveSoftware/GameNetworkingSockets) | 9.8k | C++ | 2026-06 | UDP 신뢰·비신뢰 메시지 P2P 네트워킹(Valve) |
 |  | [rsyncproject/rsync](https://github.com/RsyncProject/rsync) | 5.0k | C | 2026-06 | 빠른 증분 파일 전송 유틸(rsync) |
 |  | [microsoft/coreutils](https://github.com/microsoft/coreutils) | 4.7k | Rust | 2026-06 | 윈도우용 coreutils 패키징(MS) |
@@ -533,7 +535,7 @@
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [nangohq/nango](https://github.com/NangoHQ/nango) | 11.0k | TypeScript | 2026-07 | AI로 제품 API 연동을 만드는 오픈소스 |
+|  | [nangohq/nango](https://github.com/NangoHQ/nango) | 11.0k | TypeScript | 2026-07 | AI로 제품 API 연동을 만드는 오픈소스 |
 
 ### 맥 유틸리티
 
@@ -559,7 +561,7 @@
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 35.5k | TypeScript | 2026-07 | NotebookLM 오픈소스 대안 |
+|  | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 35.5k | TypeScript | 2026-07 | NotebookLM 오픈소스 대안 |
 |  | [zakirullin/files.md](https://github.com/zakirullin/files.md) | 3.8k | Go | 2026-07 | 조용히 사고하는 .md 파일 노트 앱(AI 친화) |
 |  | [johnfkoo951/cmds-system-files](https://github.com/johnfkoo951/cmds-system-files) | 216 | HTML | 2026-07 | 1만 노트 옵시디언 볼트를 떠받치는 지식 아키텍처 규칙 |
 |  | [jo-duchan/tapflow](https://github.com/jo-duchan/tapflow) | 157 | TypeScript | 2026-07 | 팀 전체를 위한 셀프호스팅 iOS·안드로이드 시뮬레이터 스트리밍 |
@@ -571,9 +573,9 @@
 
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
-| ♻️ | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 62.5k | HTML | 2026-07 | 바이브코딩→에이전틱 엔지니어링 베스트프랙티스 모음 |
+|  | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 62.5k | HTML | 2026-07 | 바이브코딩→에이전틱 엔지니어링 베스트프랙티스 모음 |
 |  | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 38.0k | Python | 2026-06 | 밑바닥부터 배우는 AI 엔지니어링 |
-| ♻️ | [hkuds/deeptutor](https://github.com/HKUDS/DeepTutor) | 25.5k | Python | 2026-07 | 학습자 수준 진단형 평생 개인 AI 튜터 |
+|  | [hkuds/deeptutor](https://github.com/HKUDS/DeepTutor) | 25.5k | Python | 2026-07 | 학습자 수준 진단형 평생 개인 AI 튜터 |
 |  | [devenjarvis/lathe](https://github.com/devenjarvis/lathe) | 1.6k | Go | 2026-06 | LLM 스킬로 실습형 멀티파트 기술 튜토리얼 생성 |
 |  | [fivetaku/vibe-sunsang](https://github.com/fivetaku/vibe-sunsang) | 169 | Python | 2026-07 | 바이브코더용 AI 멘토 — 대화분석·멘토링·성장 리포트 |
 |  | [optimeta/paideia](https://github.com/OPTIMETA/PAIDEIA) | 90 | Python | 2026-07 | 로컬에서 시험 준비를 돕는 Claude Code 플러그인 |
@@ -584,7 +586,7 @@
 | | 레포 | ⭐ | 언어 | 업데이트 | 설명 |
 |---|---|--:|---|---|---|
 |  | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 449.2k | Python | 2026-06 | 32만+ 무료 공개 API 모음 |
-| ♻️ | [yybmion/public-apis-4kr](https://github.com/yybmion/public-apis-4Kr) | 2.8k | Python | 2026-07 | 한국 서비스에서 쓸 수 있는 공개 API 모음 |
+|  | [yybmion/public-apis-4kr](https://github.com/yybmion/public-apis-4Kr) | 2.8k | Python | 2026-07 | 한국 서비스에서 쓸 수 있는 공개 API 모음 |
 |  | [alternbits/awesome-cuda-books](https://github.com/alternbits/awesome-cuda-books) | 936 | - | 2026-05 | 최고의 CUDA 프로그래밍 책 큐레이션 |
 
 ---
@@ -611,13 +613,13 @@
 |---|---|--:|---|---|---|
 |  | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 26.4k | Rust | 2026-05 | X(트위터) For You 피드 추천 알고리즘 |
 |  | [redhatinsights/javascript-clients](https://github.com/RedHatInsights/javascript-clients) | 7 | TypeScript | 2026-07 | Swagger API용 자바스크립트 클라이언트 |
-|  | [taewooopark/trendchaser](https://github.com/TaewoooPark/Trendchaser) | 6 | - | 2026-07 | 하루 3회 카톡으로 오는 AI 시그널 브리프(이 방의 원천) |
+|  | [taewooopark/trendchaser](https://github.com/TaewoooPark/Trendchaser) | 6 | - | 2026-07 | 하루 3회 카톡으로 배달되는 AI 트렌드 시그널 브리프 |
 
 ---
 
 ## 🌐 서비스·웹사이트 (비-GitHub)
 
-오픈소스 레포는 아니지만 커뮤니티에서 자주 언급된 서비스형 도구.
+오픈소스 레포는 아니지만 알아두면 좋은 서비스형 도구.
 
 | 서비스 | 링크 | 설명 |
 |---|---|---|
@@ -627,33 +629,33 @@
 
 ---
 
-## 🔥 부록 — 양쪽에서 걸린 강한 신호
+## 🔥 특히 주목할 핵심 도구
 
-| 언급 | 레포 | ⭐ | 분류 |
-|--:|---|--:|---|
-| 12x | [openai/codex](https://github.com/openai/codex) | 97.3k | 🌐 웹앱·서비스 만들기 › 코딩 에이전트·하네스 |
-| 10x | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 137.5k | 🌐 웹앱·서비스 만들기 › 코딩 에이전트·하네스 |
-| 3x | [egonex-ai/understand-anything](https://github.com/Egonex-AI/Understand-Anything) | 73.4k | 🌐 웹앱·서비스 만들기 › 코드 이해·검색 |
-| 2x | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 58.6k | 🤖 AI 에이전트·자동화 › 메모리·컨텍스트 |
-| 2x | [nousresearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 213.4k | 🤖 AI 에이전트·자동화 › 멀티 에이전트 프레임워크 |
-| 2x | [tauricresearch/tradingagents](https://github.com/TauricResearch/TradingAgents) | 92.5k | 💰 비즈니스·돈버는 도구 › 주식·투자·금융 |
-| 2x | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 34.7k | 🤖 AI 에이전트·자동화 › 멀티 에이전트 프레임워크 |
-| 2x | [warpdotdev/warp](https://github.com/warpdotdev/warp) | 63.1k | 🛠️ 개발·시스템 도구 › 터미널·에디터·Git |
-| 1x | [affaan-m/ecc](https://github.com/affaan-m/ECC) | 228.7k | 🤖 AI 에이전트·자동화 › 스킬·플러그인 팩 |
-| 1x | [browserbase/skills](https://github.com/browserbase/skills) | 3.6k | 🤖 AI 에이전트·자동화 › 브라우저·웹 자동화 |
-| 1x | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 76.8k | 🤖 AI 에이전트·자동화 › 멀티 에이전트 프레임워크 |
-| 1x | [chromedevtools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 46.7k | 🤖 AI 에이전트·자동화 › MCP 서버·SDK |
-| 1x | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 59.3k | 🌐 웹앱·서비스 만들기 › 코드 이해·검색 |
-| 1x | [d4vinci/scrapling](https://github.com/D4Vinci/Scrapling) | 69.2k | 📊 데이터·리서치 › 크롤링·수집 |
-| 1x | [decolua/9router](https://github.com/decolua/9router) | 21.8k | 🧠 모델·인프라 › 라우팅·비용절감 |
-| 1x | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 191.0k | 🤖 AI 에이전트·자동화 › 스킬·플러그인 팩 |
-| 1x | [github/spec-kit](https://github.com/github/spec-kit) | 119.7k | 🌐 웹앱·서비스 만들기 › 코딩 에이전트·하네스 |
-| 1x | [hkuds/ai-trader](https://github.com/HKUDS/AI-Trader) | 20.7k | 💰 비즈니스·돈버는 도구 › 주식·투자·금융 |
-| 1x | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 165.0k | ✍️ 글·문서 만들기 › 문서 변환·정리 |
-| 1x | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 130.6k | 🤖 AI 에이전트·자동화 › 멀티 에이전트 프레임워크 |
-| 1x | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 10.3k | 🎬 영상·오디오 만들기 › 영상 편집·생성 |
-| 1x | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 25.0k | 🤖 AI 에이전트·자동화 › 메모리·컨텍스트 |
-| 1x | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 19.5k | 🌐 웹앱·서비스 만들기 › 코드 이해·검색 |
+| 레포 | ⭐ | 분류 |
+|---|--:|---|
+| [affaan-m/ecc](https://github.com/affaan-m/ECC) | 228.7k | 🤖 AI 에이전트·자동화 › 스킬·플러그인 팩 |
+| [nousresearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 213.4k | 🤖 AI 에이전트·자동화 › 멀티 에이전트 프레임워크 |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 191.0k | 🤖 AI 에이전트·자동화 › 스킬·플러그인 팩 |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 165.0k | ✍️ 글·문서 만들기 › 문서 변환·정리 |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 137.5k | 🌐 웹앱·서비스 만들기 › 코딩 에이전트·하네스 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 130.6k | 🤖 AI 에이전트·자동화 › 멀티 에이전트 프레임워크 |
+| [github/spec-kit](https://github.com/github/spec-kit) | 119.7k | 🌐 웹앱·서비스 만들기 › 코딩 에이전트·하네스 |
+| [openai/codex](https://github.com/openai/codex) | 97.3k | 🌐 웹앱·서비스 만들기 › 코딩 에이전트·하네스 |
+| [tauricresearch/tradingagents](https://github.com/TauricResearch/TradingAgents) | 92.5k | 💰 비즈니스·돈버는 도구 › 주식·투자·금융 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 76.8k | 🤖 AI 에이전트·자동화 › 멀티 에이전트 프레임워크 |
+| [egonex-ai/understand-anything](https://github.com/Egonex-AI/Understand-Anything) | 73.4k | 🌐 웹앱·서비스 만들기 › 코드 이해·검색 |
+| [d4vinci/scrapling](https://github.com/D4Vinci/Scrapling) | 69.2k | 📊 데이터·리서치 › 크롤링·수집 |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 63.1k | 🛠️ 개발·시스템 도구 › 터미널·에디터·Git |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 59.3k | 🌐 웹앱·서비스 만들기 › 코드 이해·검색 |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 58.6k | 🤖 AI 에이전트·자동화 › 메모리·컨텍스트 |
+| [chromedevtools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 46.7k | 🤖 AI 에이전트·자동화 › MCP 서버·SDK |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 34.7k | 🤖 AI 에이전트·자동화 › 멀티 에이전트 프레임워크 |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 25.0k | 🤖 AI 에이전트·자동화 › 메모리·컨텍스트 |
+| [decolua/9router](https://github.com/decolua/9router) | 21.8k | 🧠 모델·인프라 › 라우팅·비용절감 |
+| [hkuds/ai-trader](https://github.com/HKUDS/AI-Trader) | 20.7k | 💰 비즈니스·돈버는 도구 › 주식·투자·금융 |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 19.5k | 🌐 웹앱·서비스 만들기 › 코드 이해·검색 |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 10.3k | 🎬 영상·오디오 만들기 › 영상 편집·생성 |
+| [browserbase/skills](https://github.com/browserbase/skills) | 3.6k | 🤖 AI 에이전트·자동화 › 브라우저·웹 자동화 |
 
 ---
-*카톡 대화 내보내기 + 개인 저장 아카이브(ai_saved_cron)를 병합·정규화·GitHub 검증하여 자동 생성. 복구 53건 포함 총 293개.*
+*총 293개 · 용도별 12분류 · 한국어 요약 포함.*
