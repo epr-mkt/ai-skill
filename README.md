@@ -4,6 +4,8 @@
 >
 > 📄 **[AI 논문 337편도 주제별로 정리 → papers.md](papers.md)**
 >
+> 🧵 **[Threads 저장글 561개 — 뭔지 + 바로가는 링크 → threads-saved.md](threads-saved.md)**
+>
 > 🔥 = 특히 주목할 핵심 도구 · ⭐ GitHub API 기준 · 📅 마지막 업데이트 · 🗄️ 아카이브됨
 
 *생성 2026-07-12 · 총 293개 · 12개 분류*
